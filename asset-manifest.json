@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adriennecmetz.github.io/csb-fjqxm1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/main.2b6c3a8a.chunk.js",
+    "main.js.map": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/main.2b6c3a8a.chunk.js.map",
+    "runtime-main.js": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/runtime-main.767cacaf.js",
+    "runtime-main.js.map": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/runtime-main.767cacaf.js.map",
+    "static/js/2.81daf36f.chunk.js": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/2.81daf36f.chunk.js",
+    "static/js/2.81daf36f.chunk.js.map": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/2.81daf36f.chunk.js.map",
+    "index.html": "https://adriennecmetz.github.io/csb-fjqxm1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://adriennecmetz.github.io/csb-fjqxm1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.81daf36f.chunk.js.LICENSE.txt": "https://adriennecmetz.github.io/csb-fjqxm1/static/js/2.81daf36f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.767cacaf.js",
+    "static/js/2.81daf36f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2b6c3a8a.chunk.js"
+  ]
+}
